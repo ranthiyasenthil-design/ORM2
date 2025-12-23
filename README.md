@@ -40,7 +40,7 @@ admin.site.register(Car,CarAdmin)
 ```
 
 ## OUTPUT
-Include your output
+![alt text](<Screenshot (17)-1.png>)
 
 
 
